@@ -8,9 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rubaiyatmahe&label=Profile%20views&color=0e75b6&style=flat" alt="rubaiyatmahe" /> </p>
 
-- 🔭 I’m currently working on **E-Learning With Image Search App**
+- 🔭 I’m currently working on **Indie game - Save Her John**
 
-- 🌱 I’m currently learning **Cyber Security Course : Hackers Exposed!**
+- 🌱 I’m currently learning **Robotics Programming!**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rubaiyatmahe](https://github.com/Rubaiyatmahe)
 
