@@ -1,5 +1,5 @@
 [![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif](https://user-images.githubusercontent.com/80895946/200847260-03dcda1a-4e28-4032-af17-6f680d0f22cb.gif)
-)](https://rishavchanda.io
+)](https://github.com/Rubaiyatmahe
 )
 
 <h1 align="center">Hi 👋, I'm Rubaiyat Hussain Mahe</h1>
